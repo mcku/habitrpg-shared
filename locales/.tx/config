@@ -1,0 +1,129 @@
+[main]
+host = https://www.transifex.com
+
+[habitrpg.backgroundsjson]
+file_filter = <lang>/backgrounds.json
+source_file = en/backgrounds.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.challengejson]
+file_filter = <lang>/challenge.json
+source_file = en/challenge.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.characterjson]
+file_filter = <lang>/character.json
+source_file = en/character.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.contentjson]
+file_filter = <lang>/content.json
+source_file = en/content.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.contribjson]
+file_filter = <lang>/contrib.json
+source_file = en/contrib.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.defaulttasksjson]
+file_filter = <lang>/defaultTasks.json
+source_file = en/defaultTasks.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.frontjson]
+file_filter = <lang>/front.json
+source_file = en/front.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.gearjson]
+file_filter = <lang>/gear.json
+source_file = en/gear.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.genericjson]
+file_filter = <lang>/generic.json
+source_file = en/generic.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.groupsjson]
+file_filter = <lang>/groups.json
+source_file = en/groups.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.limitedjson]
+file_filter = <lang>/limited.json
+source_file = en/limited.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.messagesjson]
+file_filter = <lang>/messages.json
+source_file = en/messages.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.npcjson]
+file_filter = <lang>/npc.json
+source_file = en/npc.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.petsjson]
+file_filter = <lang>/pets.json
+source_file = en/pets.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.questsjson]
+file_filter = <lang>/quests.json
+source_file = en/quests.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.questscontentjson]
+file_filter = <lang>/questsContent.json
+source_file = en/questsContent.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.rebirthjson]
+file_filter = <lang>/rebirth.json
+source_file = en/rebirth.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.settingsjson]
+file_filter = <lang>/settings.json
+source_file = en/settings.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.spellsjson]
+file_filter = <lang>/spells.json
+source_file = en/spells.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.subscriberjson]
+file_filter = <lang>/subscriber.json
+source_file = en/subscriber.json
+source_lang = en
+type = KEYVALUEJSON 
+
+[habitrpg.tasksjson]
+file_filter = <lang>/tasks.json
+source_file = en/tasks.json
+source_lang = en
+type = KEYVALUEJSON 
+
