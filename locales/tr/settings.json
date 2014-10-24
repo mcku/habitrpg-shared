@@ -4,7 +4,7 @@
     "americanEnglishGovern": "Çevirilerde uyuşmazlık olması halinde, Amerikan İngilizcesi versiyonu geçerlidir.",
     "helpWithTranslation": "Would you like to help with the translation of HabiRPG? Great! Then visit <a href=\"https://trello.com/c/SvTsLdRF/12-translations\" target=\"_blank\">this</a> Trello card.",
     "showHeaderPop": "Avatarını, Sağlık/Deneyim çubuklarını ve partini göster.",
-    "stickyHeader": "Sticky header",
+    "stickyHeader": "Yapışkan konu",
     "stickyHeaderPop": "Affix the header to the top of the screen. Unchecked means it scrolls out of view.",
     "newTaskEdit": "Yeni görevleri düzenleme modunda aç.",
     "newTaskEditPop": "With this option set, new tasks will immediately open for you to add details like notes and tags.",
