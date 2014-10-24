@@ -33,7 +33,7 @@
     "challengeTagPop": "Mücadeleler etiket-listelerinde ve görev-araçlarında görünür. Yani açıklayıcı bir başlığın yanında aynı zamanda bir 'kısa isim' de gerekmektedir. Örn. '3 ayda 10 kilo verin', '-10kg' olabilir (Daha fazla bilgi için tıklayın).",
     "challengeDescr": "Tanım",
     "prize": "Ödül",
-    "prizePop": "If someone can 'win' your challenge, you can optionally award that winner a Gem prize. Max = #gems you own (+ guild.gems, if you created this challenge's guild). Note: This prize can't be changed later and will not be refunded if challenge is cancelled.",
+    "prizePop": "İsterseniz, birisi sizin mücadelenizi 'kazandığında', o kişiyi bir Mücevher ile ödüllendirebilirsiniz. Maksimum = sahip olduğunuz mücevher sayısı + (cemiyetinizin mücevherleri, eğer bu mücadelenin cemiyetini siz kurduysanız). Not: Bu ödül daha sonra değiştirilemez, mücadele iptal edilirse de iade edilmez.",
     "publicChallenges": "<strong> Herkese açık mücadeleler </strong>için en az 1 Gem (Spam önlemidir, gerçekten yardımcı).",
     "officialChallenge": "Resmi HabitRPG Mücadelesi",
     "by": "tarafından",
