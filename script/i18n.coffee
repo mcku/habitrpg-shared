@@ -15,7 +15,7 @@ module.exports =
 
     locale = 'en' if (!locale? or (!module.exports.strings and !module.exports.translations[locale]))
     string = if (!module.exports.strings) then module.exports.translations[locale][stringName] else module.exports.strings[stringName]
-
+    console.log "locale: " + locale + " string " + string
     if string
       try
         _.template(string, (vars or {}))
