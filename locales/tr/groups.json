@@ -1,5 +1,5 @@
 {
-    "tavern": "Kıraathane",
+    "tavern": "Çayocağı",
     "innCheckOut": "Handan Dışarı Çık",
     "innCheckIn": "Handa Dinlen",
     "innText": "Handaki istirahatiniz nasıl gidiyor? Sizi korumak için günlük listeniz dondurulmuştur. İşaretleriniz yarına kadar (çıkış yapmanızdan sonraki gün) işlenmeyecektir. Dikkatli olun, partiniz bir Büyük Patron Savaşı içindeyse, onların kaçırdığı işler sizi incitecek! Ayrıca, siz büyük patrona zarar veremeyeceksiniz. Ayrılmaya hazır mısın? Çıkış yap.",
@@ -15,7 +15,7 @@
     "tavernTalk": "Kahve Muhabbeti",
     "tavernAlert1": "Not: Hata bildirimi yapıyorsanız, geliştiriciler burada göremezler. Lütfen",
     "tavernAlert2": "Github'ı kullanın",
-    "moderatorIntro1": "Kıraathane ve dernek yöneticileri:",
+    "moderatorIntro1": "Çayocağı ve dernek yöneticileri:",
     "moderatorIntro2": ".",
     "party": "Parti",
     "createAParty": "Parti Oluştur",
