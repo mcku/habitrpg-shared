@@ -20,5 +20,5 @@
     "messageDropFood": "You've found <%= dropArticle %><%= dropText %>! <%= dropNotes %>",
     "messageDropEgg": "You've found a <%= dropText %> Egg! <%= dropNotes %>",
     "messageDropPotion": "Bir <%= dropText %> Yumurta Çatlatma İksiri buldunuz! <%= dropNotes %>",
-    "messageFoundQuest": "You've found the quest \"<%= questText %>\"!"
+    "messageFoundQuest": "Seferi elde ettiniz \"<%= questText %>\"!"
 }
