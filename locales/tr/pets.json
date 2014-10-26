@@ -16,7 +16,7 @@
     "rarePetPop1": "Click the gold paw to learn more about how you can obtain this rare pet through contributing to HabitRPG!",
     "rarePetPop2": "How to Get this Pet!",
     "potion": "<%= potionType %> Potion",
-    "egg": "<%= eggType %> Yumurta",
+    "egg": "<%= eggType %> Yumurtası",
     "eggs": "Yumurtalar",
     "eggSingular": "yumurta",
     "noEggs": "Hiç yumurtanız yok.",
