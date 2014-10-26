@@ -19,6 +19,6 @@
     "messageTwoHandled": "<%= gearText %> is two handed",
     "messageDropFood": "You've found <%= dropArticle %><%= dropText %>! <%= dropNotes %>",
     "messageDropEgg": "You've found a <%= dropText %> Egg! <%= dropNotes %>",
-    "messageDropPotion": "You've found a <%= dropText %> Hatching Potion! <%= dropNotes %>",
+    "messageDropPotion": "Bir <%= dropText %> Yumurta Çatlatma İksiri buldunuz! <%= dropNotes %>",
     "messageFoundQuest": "You've found the quest \"<%= questText %>\"!"
 }
