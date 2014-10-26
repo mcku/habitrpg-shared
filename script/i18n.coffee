@@ -1,8 +1,28 @@
 _ = require 'lodash'
+fs = require 'fs'
+path = require 'path'
+translations = {}
+
+localePath = path.join(__dirname, "../locales/")
+# copied from habitrpg/src/i18n.js
+loadTranslations= (locale) ->
+  files = fs.readdirSync(path.join(localePath, locale));
+  translations[locale] = {};
+  _.each files, (file) ->
+    # console.log "i18n.coffee file: " + file
+    if path.extname(file) != '.json' 
+      return
+    _.merge(translations[locale], require(path.join(localePath, locale, file)));
+  
+
+loadTranslations('en');
+loadTranslations('tr');
+loadTranslations('de');
+loadTranslations('fr');
 
 module.exports = 
   strings: null, # Strings for one single language
-  translations: {} # Strings for multiple languages {en: strings, de: strings, ...}
+  translations: translations # Strings for multiple languages {en: strings, de: strings, ...}
   t: (stringName) -> # Other parameters allowed are vars (Object) and locale (String)
     vars = arguments[1]
 
