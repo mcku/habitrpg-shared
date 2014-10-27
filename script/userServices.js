@@ -40,7 +40,7 @@ angular.module('userServices', [])
 
       var syncQueue = function (cb) {
         if (!authenticated) {
-          $window.alert(env.t("notAuthCantSync");
+          $window.alert(env.t("notAuthCantSync"));
           return;
         }
 
@@ -171,7 +171,7 @@ angular.module('userServices', [])
               // If they don't have timezone, set it
               var offset = moment().zone(); // eg, 240 - this will be converted on server as -(offset/60)
               if (user.preferences.timezoneOffset !== offset)
-                userServices.set({'preferences.timezoneOffset': offset});
+                userServices.set({'preferences.timezoneOffset': offset}));
               cb && cb();
             });
           } else {
