@@ -33,8 +33,8 @@
 	"noFoundAddSome":"<%= textval %> bulunamadı, yukarıdan biraz ekleyin.",
 	"addNewGenItem": "＋ Yeni <%= textval %> Ekle",
 	"settingsJade01" : "Diğer uygulamalarda kullanmak için bunları kopyalayabilirsiniz. API Token'iniz sizin parolanız gibidir, herkese açık bir şekilde paylaşmayın. Zaman zaman kullanıcı ID (kimlik bilgisi) sizden istenebilir, asla API Token'inizi başkalarının görebileceği bir şekilde paylaşmayın, GitHub da bu yerlere dahil.",
-	"checkoutInn":"'Han'ın Dışına Çık",
-	"restInTheInn":"'Han'a Gir ve Dinlen",
+	"checkoutInn":"Han'ın Dışına Çık",
+	"restInTheInn":"Han'a Gir ve Dinlen",
 	"socialJade01":"Davetleri yönetmek ve yeni parti oluşturmak için internet sitemize gidin.",
 	"yourGuilds": "Sizin dernekleriniz",
 	"otherGuilds": "Diğer dernekler",
@@ -46,6 +46,14 @@
 	"menu":"Menü",
 	"send":"Gönder",
 	"aboutJade01":"bir gerçek alışkanlık edinme oyunudur; MMORPG türünde fakat kendinizi geliştirmek için. Hedeflerinizi gerçekleştirdikçe altın ve deneyim kazanın, hedeflerinizi başaramazsanız sağlığınızı kaybedin, seviye atlayın ve arkadaşlarınızla arayışlar yapın.",
-	"website": "Web sitemiz"
+	"website": "Web sitemiz",
+	"register": "Kaydol",
+	"useFacebook": "Facebook ile Kaydol",	
+	"apiEndpoint": "Sunucu API adresi",
+	"submit": "Gönder",
+	"useUsernamePwd":"Kullanıcı Adı/Parola kullan",
+	"email":"E-posta"
+
+
 
 }

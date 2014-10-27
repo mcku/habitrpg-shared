@@ -1,5 +1,5 @@
 {
-    "messageLostItem": "Your <%= itemText %> broke.",
+    "messageLostItem": "Sizin <%= itemText %> bozulmuş.",
     "messageTaskNotFound": "Görev bulunamadı.",
     "messageTagNotFound": "Etiket bulunamadı.",
     "messagePetNotFound": ":pet user.items.pets içerisinde bulunamadı.",
@@ -18,7 +18,7 @@
     "messageNotEnoughGold": "Altın Yeterli Değil",
     "messageTwoHandled": "<%= gearText %> is two handed",
     "messageDropFood": "You've found <%= dropArticle %><%= dropText %>! <%= dropNotes %>",
-    "messageDropEgg": "You've found a <%= dropText %> Egg! <%= dropNotes %>",
+    "messageDropEgg": "Bir <%= dropText %> Yumurtası buldunuz! <%= dropNotes %>",
     "messageDropPotion": "Bir <%= dropText %> Yumurta Çatlatma İksiri buldunuz! <%= dropNotes %>",
     "messageFoundQuest": "Seferi elde ettiniz \"<%= questText %>\"!"
 }

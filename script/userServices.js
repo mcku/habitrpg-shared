@@ -40,7 +40,7 @@ angular.module('userServices', [])
 
       var syncQueue = function (cb) {
         if (!authenticated) {
-          $window.alert("Not authenticated, can't sync, go to settings first.");
+          $window.alert(env.t("notAuthCantSync");
           return;
         }
 
@@ -175,7 +175,7 @@ angular.module('userServices', [])
               cb && cb();
             });
           } else {
-            alert('Please enter your ID and Token in settings.')
+            alert(ent.t('enterTokenAndIDinStrings')
           }
         },
 

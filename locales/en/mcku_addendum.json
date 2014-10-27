@@ -47,5 +47,15 @@
 	"menu":"Menu",
 	"send":"Send",
 	"aboutJade01":"is a game for building real-life habits; an MMORPG for self-improvement. Earn gold and experience as you accomplish your goals, lose hitpoints as you fail your goals, level up and quest with friends.",
-	"website": "Website"
+	"website": "Website",
+	"register": "Register",
+	"useFacebook": "Use Facebook",
+	"apiEndpoint": "API Endpoint",
+	"submit": "Submit",
+	"useUsernamePwd":"Use Username/Password",
+	"email":"Email",
+	"passwordConfirm":"Password Confirm",
+	"enterTokenAndIDinStrings":"Please enter your ID and Token in settings.",
+	"notAuthCantSync":"Not authenticated, can't sync, go to settings first."
+
 }
