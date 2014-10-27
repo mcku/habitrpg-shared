@@ -175,7 +175,7 @@ angular.module('userServices', [])
               cb && cb();
             });
           } else {
-            alert(ent.t('enterTokenAndIDinStrings')
+            alert(env.t('enterTokenAndIDinStrings'))
           }
         },
 
