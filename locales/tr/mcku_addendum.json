@@ -52,8 +52,17 @@
 	"apiEndpoint": "Sunucu API adresi",
 	"submit": "Gönder",
 	"useUsernamePwd":"Kullanıcı Adı/Parola kullan",
-	"email":"E-posta"
-
+	"email":"E-posta",
+	"required":"gerekiyor",
+	"dontmatch":"eşleşmiyor",
+	"invalid":"geçersiz",
+	"emailAlreadyTaken":"Bu e-posta zaten alınmış",
+	"usernameAlreadyTaken":"Kullanıcı adı zaten alınmış",
+	"couldntFindEmail":"<%= textval %> e-posta adresine karşılık gelen bir kullanıcı bulunamadı",
+	"userPasswordReset":"Gayret APP Parola Sıfırlama",
+	"passwordHasBeenResetTo":"<%= textvalUser %> kullanıcı parolası <%= textvalNewPwd => olarak yeniden oluşturuldu. <%= textvalLoginAt %> adresinden giriş yapın.",
+	"passwordHasBeenResetToHtml":"<strong> <%= textvalUser %> </strong> kullanıcı parolası <strong> <%= textvalNewPwd %> </strong> olarak yeniden oluşturuldu. <%= textvalLoginAt %> adresinden giriş yapın.",
+	"newPasswordSentTo":"Yeni parola <%= textval %> adresine gönderildi."
 
 
 }

@@ -56,6 +56,16 @@
 	"email":"Email",
 	"passwordConfirm":"Password Confirm",
 	"enterTokenAndIDinStrings":"Please enter your ID and Token in settings.",
-	"notAuthCantSync":"Not authenticated, can't sync, go to settings first."
+	"notAuthCantSync":"Not authenticated, can't sync, go to settings first.",
+	"required":"required",
+	"dontmatch":"don't match",
+	"invalid":"invalid",
+	"emailAlreadyTaken":"Email already taken",
+	"usernameAlreadyTaken":"Username already taken",
+	"couldntFindEmail":"Couldn't find a user registered for email <%= textval %>",
+	"userPasswordReset":"Password Reset for Gayret APP",
+	"passwordHasBeenResetTo":"Password for <%= textvalUser %> has been reset to <%= textvalNewPwd =>. Log in at <%= textvalLoginAt %>",
+	"passwordHasBeenResetToHtml":"Password for <strong> <%= textvalUser %> </strong> has been reset to <strong> <%= textvalNewPwd %> </strong>. Log in at <%= textvalLoginAt %>",
+	"newPasswordSentTo":"New password sent to <%= textval %>"
 
 }
