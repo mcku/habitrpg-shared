@@ -66,6 +66,9 @@
 	"userPasswordReset":"Password Reset for Gayret APP",
 	"passwordHasBeenResetTo":"Password for <%= textvalUser %> has been reset to <%= textvalNewPwd =>. Log in at <%= textvalLoginAt %>",
 	"passwordHasBeenResetToHtml":"Password for <strong> <%= textvalUser %> </strong> has been reset to <strong> <%= textvalNewPwd %> </strong>. Log in at <%= textvalLoginAt %>",
-	"newPasswordSentTo":"New password sent to <%= textval %>"
+	"newPasswordSentTo":"New password sent to <%= textval %>",
+	"newInvite":"New Invite",
+	"previouslyInvited":"Previously Invited",
+	"inviteNewUser": "Invite New User"
 
 }

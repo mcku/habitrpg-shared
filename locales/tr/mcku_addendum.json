@@ -62,7 +62,10 @@
 	"userPasswordReset":"Gayret APP Parola Sıfırlama",
 	"passwordHasBeenResetTo":"<%= textvalUser %> kullanıcı parolası <%= textvalNewPwd => olarak yeniden oluşturuldu. <%= textvalLoginAt %> adresinden giriş yapın.",
 	"passwordHasBeenResetToHtml":"<strong> <%= textvalUser %> </strong> kullanıcı parolası <strong> <%= textvalNewPwd %> </strong> olarak yeniden oluşturuldu. <%= textvalLoginAt %> adresinden giriş yapın.",
-	"newPasswordSentTo":"Yeni parola <%= textval %> adresine gönderildi."
+	"newPasswordSentTo":"Yeni parola <%= textval %> adresine gönderildi.",
+	"newInvite":"Yeni Davet",
+	"previouslyInvited":"Previously Invited",
+	"inviteNewUser": "Yeni Bir Kullanıcı Davet Et"
 
 
 }
